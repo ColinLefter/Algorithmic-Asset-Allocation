@@ -1,9 +1,5 @@
 # Group 15 - Algorithmic Asset Allocation and Portfolio Construction
 
-## Milestones
-
-Details for Milestone are available on Canvas (left sidebar, Course Project).
-
 ## Describe your topic/interest in about 150-200 words
 
 Our combined goal is to investigate what equity data is the most important to consider when developing a portfolio of equities that preferences either a growth portfolio or value investment strategy. From an industry perspective, we intend to provide a solution to the problem of maximising client returns by optimising risk and return in the case of optimal asset allocation. Clients have diverse investment goals, which is why we have divided our group project into the exploration of both growth and value investment strategies. As a successful analysis requires us to validate our findings with a series of control tests, we are equally passionate about discovering new trends in our data in addition to validating our findings with what is already known. Therefore, our research questions inherently prescribe an implicit comparison with known factors. We are passionate about revealing underlying trends across financial markets, being composed of a group of Computer Science and Data Science students.
